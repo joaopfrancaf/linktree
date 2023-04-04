@@ -22,6 +22,18 @@ export const DivStyleFoto = styled('div', {
     flexDirection: 'column',
     alignItems: 'center',
 
+    img: {
+        borderRadius: '50%',
+        border: '5px solid $bodybgcolor',
+        outline: '2px solid $purple',
+
+        
+    },
+
+    'img:before': {
+        
+    },
+
     p: {
         fontWeight: '400',
         marginTop: '1.375rem'
