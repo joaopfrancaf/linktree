@@ -14,7 +14,7 @@ export default function Home() {
     <DivStyleContainer>
       <DivCard>
         <DivStyleFoto>
-          <Image src={Imag} alt={""} width={200}/>
+          <div><Image src={Imag} alt={""} width={186}/></div>
           <p>@MaquinaDelass</p>
         </DivStyleFoto>
 
