@@ -32,6 +32,10 @@ export const DivStyleFoto = styled('div', {
 
     },
 
+    'img:before': {
+        
+    },
+
     p: {
         fontWeight: '400',
         marginTop: '1.375rem'
