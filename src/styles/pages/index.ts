@@ -27,7 +27,8 @@ export const DivStyleFoto = styled('div', {
         border: '5px solid $bodybgcolor',
         outline: '2px solid $purple',
 
-        
+        '-webkit-border-radius': '50%',
+        '-moz-border-radius': '50%',
     },
 
     p: {
