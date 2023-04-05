@@ -22,17 +22,11 @@ export const DivStyleFoto = styled('div', {
     flexDirection: 'column',
     alignItems: 'center',
 
-    div: {
+    img: {
         borderRadius: '50%',
         border: '5px solid $bodybgcolor',
         outline: '2px solid $purple',
-        overflow: 'hidden',
 
-
-
-    },
-
-    'img:before': {
         
     },
 
